@@ -3,7 +3,7 @@ Awesome web interface for comparing outputs across various openai GPT models.
 Open for contributions and PRs.🙂
 
 ## Find this project over 
-###  http://gpt-compare.ap-south-1.elasticbeanstalk.com/
+###  https://gptwars.streamlit.app/
 
 ### Tasks tracking
 - [x] Chat
